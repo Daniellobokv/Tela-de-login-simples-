@@ -1,0 +1,31 @@
+body {
+background-image: linear-gradient(90deg, blue, purple): 
+text-aline: center; 
+font-family: arial;}
+
+div {
+padding: 50px;
+padding-bottom: 70px;
+background-color: rgba(0, 0, 0, 0.6);
+color: white;
+position: absolute;
+border-radius: 30px;
+top: 50%; left: 50%;
+transform: translate(-50%, -50%);
+}
+
+input {
+padding: 10px;
+border-radius: 10px;
+border:none;
+}
+
+button {
+width: 100%;
+background-color: blue;
+color: white; size-font: 19px;
+padding: 10px;
+border-radius: 10px;
+border: none;
+}
+
